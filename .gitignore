@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/direnv,osx,pycharm+iml,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=direnv,osx,pycharm+iml,visualstudiocode
 
+### pyenv ###
+.python-version
+
 ### direnv ###
 .direnv
 .envrc
