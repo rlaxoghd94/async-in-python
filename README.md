@@ -13,4 +13,4 @@ Project specifications are as follows(should you wish to try the exercises):
 ## Contents
 
 1. [Introduction](./Docs/001_Introduction.md)
-2. 
+2. [Async exercises in Python](./Docs/002_Async_exercises.md)
